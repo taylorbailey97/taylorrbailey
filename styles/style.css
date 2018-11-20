@@ -81,6 +81,7 @@ footer {
 .photo{
     border-radius: 50%;
     width: 200px;
+    /*height: 200px;*/
     float: right;
     overflow: hidden;
 }

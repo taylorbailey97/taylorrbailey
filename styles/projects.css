@@ -1,0 +1,29 @@
+main {
+    text-align: center;
+}
+
+main a {
+    color: white;
+}
+
+main a:hover {
+    background: none;
+    color: grey;
+}
+
+main h3 {
+    font-size: 2em;
+}
+
+main p {
+    font-size: 1.2em;
+}
+
+article {
+    background: #ec4e20;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
